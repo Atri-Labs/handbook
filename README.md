@@ -9,7 +9,7 @@ The goal of this repository is to share a deeper dive into what we are building,
 **Table of Contents**
 
 - [Welcome to the Atri Handbook! ✨](#welcome-to-the-atri-handbook-)
-  - [Product](#product)
+  - [🛠️ Product](#️-product)
     - [What are we building at Atri Labs?](#what-are-we-building-at-atri-labs)
     - [Can the frontend and backend development be decoupled?](#can-the-frontend-and-backend-development-be-decoupled)
     - [Development experience](#development-experience)
@@ -17,17 +17,17 @@ The goal of this repository is to share a deeper dive into what we are building,
     - [Extensibility of Atri editor](#extensibility-of-atri-editor)
       - [What type of extensibility is allowed at the moment?](#what-type-of-extensibility-is-allowed-at-the-moment)
     - [The project's dependency graph shows that some NodeJS and Express-related libraries. What does that mean?](#the-projects-dependency-graph-shows-that-some-nodejs-and-express-related-libraries-what-does-that-mean)
-  - [Traction](#traction)
+  - [🥂 Traction](#-traction)
     - [Downloads](#downloads)
     - [Companies](#companies)
     - [All community stats](#all-community-stats)
-  - [Open-source community](#open-source-community)
+  - [💥 Open-source community](#-open-source-community)
     - [Nuanced perspective on contributions](#nuanced-perspective-on-contributions)
     - [How to understand our contributor base?](#how-to-understand-our-contributor-base)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Product
+## 🛠️ Product
 ### What are we building at Atri Labs?
 
 - We are building a full-stack framework on top of React (think in the leagues of Next.js, Remix.run, Gatsby.js, etc.)
@@ -98,7 +98,7 @@ Our view is that the right time to seek community contributions on the extensibi
 
 
 
-## Traction
+## 🥂 Traction
 
 ### Downloads
 
@@ -115,7 +115,7 @@ We are compiling a list of companies where our users work.
 We are preparing a data room that will give a holistic view of our community activity across platforms. 
 - This is itself an open-source project that can be used by other open-source companies. 
 
-## Open-source community
+## 💥 Open-source community
 
 ### Nuanced perspective on contributions
 
