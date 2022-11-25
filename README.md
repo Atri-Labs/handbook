@@ -2,27 +2,28 @@
 
 The goal of this repository is to share a deeper dive into what we are building, the thought process behind the decisions we have made along the way and where we are headed. 
 
-![Welcome!](assets/theatre.jpeg)
+<img src="assets/theatre.jpeg" alt="drawing" width="1000"/>
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [Product](#product)
-  - [What are we building at Atri Labs?](#what-are-we-building-at-atri-labs)
-  - [Can the frontend and backend development be decoupled?](#can-the-frontend-and-backend-development-be-decoupled)
-  - [Development experience](#development-experience)
-    - [Contextualizing development experience](#contextualizing-development-experience)
-  - [Extensibility of Atri editor](#extensibility-of-atri-editor)
-    - [What type of extensibility is allowed at the moment?](#what-type-of-extensibility-is-allowed-at-the-moment)
-  - [The project's dependency graph shows that some NodeJS and Express-related libraries. What does that mean?](#the-projects-dependency-graph-shows-that-some-nodejs-and-express-related-libraries-what-does-that-mean)
-- [Traction](#traction)
-  - [Downloads](#downloads)
-  - [Companies](#companies)
-  - [All community stats](#all-community-stats)
-- [Open-source community](#open-source-community)
-  - [Nuanced perspective on contributions](#nuanced-perspective-on-contributions)
-  - [How to understand our contributor base?](#how-to-understand-our-contributor-base)
+- [Welcome to the Atri Handbook! ✨](#welcome-to-the-atri-handbook-)
+  - [Product](#product)
+    - [What are we building at Atri Labs?](#what-are-we-building-at-atri-labs)
+    - [Can the frontend and backend development be decoupled?](#can-the-frontend-and-backend-development-be-decoupled)
+    - [Development experience](#development-experience)
+      - [Contextualizing development experience](#contextualizing-development-experience)
+    - [Extensibility of Atri editor](#extensibility-of-atri-editor)
+      - [What type of extensibility is allowed at the moment?](#what-type-of-extensibility-is-allowed-at-the-moment)
+    - [The project's dependency graph shows that some NodeJS and Express-related libraries. What does that mean?](#the-projects-dependency-graph-shows-that-some-nodejs-and-express-related-libraries-what-does-that-mean)
+  - [Traction](#traction)
+    - [Downloads](#downloads)
+    - [Companies](#companies)
+    - [All community stats](#all-community-stats)
+  - [Open-source community](#open-source-community)
+    - [Nuanced perspective on contributions](#nuanced-perspective-on-contributions)
+    - [How to understand our contributor base?](#how-to-understand-our-contributor-base)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
