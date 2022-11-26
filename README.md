@@ -23,5 +23,5 @@ The goal of this repository is to share a deeper dive into what we are building,
 
 ## 💥 Open-source community
 
-1. [Nuanced perspective on contributions](posts/traction/contributor.md)
-2. [How to understand our contributor base?](posts/traction/our_contributor.md)
+1. [Nuanced perspective on contributions](posts/oss/contributor.md)
+2. [How to understand our contributor base?](posts/oss/our_contributor.md)
