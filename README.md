@@ -15,14 +15,14 @@ The goal of this repository is to share a deeper dive into what we are building,
 
 ## 🥂 Traction
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Atri-Labs/atrilabs-engine?style=social) <a href="https://pepy.tech/badge/atri" target="_blank"><img src="https://pepy.tech/badge/atri" alt="Downloads"></a> [![All Contributors](https://img.shields.io/badge/all_contributors-52-orange.svg?style=flat-square)](#contributors-)
+![GitHub Repo stars](https://img.shields.io/github/stars/Atri-Labs/atrilabs-engine?style=social) <a href="https://pepy.tech/badge/atri" target="_blank"><img src="https://pepy.tech/badge/atri" alt="Downloads"></a> [![Organizations](https://img.shields.io/badge/organizations-35%2B-ff69b4)](#organizations) [![All Contributors](https://img.shields.io/badge/all_contributors-52-orange.svg?style=flat-square)](#contributors-)
 
-> Ranked #7 in popularity among all TypeScript repositories in GitHub for the week of Nov 21. [Source](https://ossinsight.io/)
+> **Ranked #7 in popularity among all TypeScript repositories in GitHub for the week of Nov 21.** [Source](https://ossinsight.io/)
 
-> Listed as a "Hot JS Tool" for the week of Nov 6. [Source](https://jstools.substack.com/p/hot-js-tools-45-612-november-2022)
+> **Listed as a "Hot JS Tool" for the week of Nov 6.** [Source](https://jstools.substack.com/p/hot-js-tools-45-612-november-2022)
 
 1. [Downloads](posts/traction/downloads.md)
-2. [Companies](posts/traction/companies.md)
+2. [Organizations](posts/traction/organizations.md)
 3. [Testimonial bank](posts/traction/testimonials.md)
 3. [All community stats](posts/traction/community_stats.md)
 
