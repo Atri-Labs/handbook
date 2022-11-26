@@ -1,6 +1,6 @@
 # How to understand our contributor base?
 
->❗ Make sure you have read [the above section](#nuanced-perspective-on-contributions) to develop a more nuanced understanding on how a maintainer thinks about code contributions during the earlier stages of an open-source project.
+>❗ Make sure you have read [this section](#nuanced-perspective-on-contributions) to develop a more nuanced understanding on how a maintainer thinks about code contributions during the earlier stages of an open-source project.
 
 - Code contributors is not a correct metric to gauge the health of our community. 
 - One should instead look at our [downloads](#downloads) and all-contributors-count instead. 
