@@ -1,3 +1,3 @@
-# The project's dependency graph shows that some NodeJS and Express-related libraries. What does that mean?
+# The project's dependency graph shows some NodeJS and Express libraries. What does that mean?
 
-Placeholder to update later
+Since Atri framework is a full-stack web framework, the backend development can be done using Python and NodeJS (upcoming). The libraries that you see in our dependency graph help us in providing this capability. 
