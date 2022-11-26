@@ -10,7 +10,7 @@ The goal of this repository is to share a deeper dive into what we are building,
 ](posts/product/product_explained.md)
 2. [Can the frontend and backend development be decoupled?](posts/product/decoupled.md)
 3. [Development experience of an Atri App creator](posts/product/dx.md)
-4. [Atri editor - how extensible is it?](posts/product/dx.md)
+4. [Atri editor - how extensible is it?](posts/product/extensibility.md)
 5. [How to understand the project's dependency graph?](posts/product/dependency.md)
 
 ## 🥂 Traction
