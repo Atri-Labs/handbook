@@ -19,6 +19,7 @@ The goal of this repository is to share a deeper dive into what we are building,
 
 1. [Downloads](posts/traction/downloads.md)
 2. [Companies](posts/traction/companies.md)
+3. [Testimonial bank](posts/traction/testimonials.md)
 3. [All community stats](posts/traction/community_stats.md)
 
 ## 💥 Open-source community
